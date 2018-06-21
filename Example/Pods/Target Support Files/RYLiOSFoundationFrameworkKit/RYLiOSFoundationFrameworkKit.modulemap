@@ -1,0 +1,6 @@
+framework module RYLiOSFoundationFrameworkKit {
+  umbrella header "RYLiOSFoundationFrameworkKit-umbrella.h"
+
+  export *
+  module * { export * }
+}

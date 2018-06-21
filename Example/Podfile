@@ -1,5 +1,8 @@
 use_frameworks!
 
+platform :ios, '9.0'
+
+
 target 'RYLiOSFoundationFrameworkKit_Example' do
   pod 'RYLiOSFoundationFrameworkKit', :path => '../'
 

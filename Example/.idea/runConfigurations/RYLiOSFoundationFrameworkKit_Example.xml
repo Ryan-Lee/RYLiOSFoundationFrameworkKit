@@ -1,0 +1,8 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="RYLiOSFoundationFrameworkKit-Example" type="AppleRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="RYLiOSFoundationFrameworkKit" TARGET_NAME="RYLiOSFoundationFrameworkKit_Example" CONFIG_NAME="Debug" SCHEME_NAME="RYLiOSFoundationFrameworkKit-Example" IS_LOCATION_SIMULATION_ALLOWED="true" RUN_TARGET_PROJECT_NAME="RYLiOSFoundationFrameworkKit" RUN_TARGET_NAME="RYLiOSFoundationFrameworkKit_Example" MAKE_ACTIVE="TRUE">
+    <EXTENSION ID="org.jetbrains.appcode.reveal.RevealRunConfigurationExtension">
+      <REVEAL_SETTINGS autoInject="false" autoInstall="true" askToEnableAutoInstall="true" />
+    </EXTENSION>
+    <method />
+  </configuration>
+</component>
