@@ -1,0 +1,14 @@
+use_frameworks!
+
+target 'RYLiOSFoundationFrameworkKit_Example' do
+  pod 'RYLiOSFoundationFrameworkKit', :path => '../'
+
+  target 'RYLiOSFoundationFrameworkKit_Tests' do
+    inherit! :search_paths
+
+    pod 'Specta'
+    pod 'Expecta'
+    pod 'FBSnapshotTestCase'
+    pod 'Expecta+Snapshots'
+  end
+end
