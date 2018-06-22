@@ -22,129 +22,7 @@
     <option name="FILTER_BY_CURRENT_PROJECT" value="true" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4f9f3902-9b18-4932-9dcc-8dd127ab4efe" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/Pods/AFNetworking/AFNetworking/AFCompatibilityMacros.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pods/AFNetworking/AFNetworking/AFHTTPSessionManager.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pods/AFNetworking/AFNetworking/AFHTTPSessionManager.m" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pods/AFNetworking/AFNetworking/AFNetworkReachabilityManager.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pods/AFNetworking/AFNetworking/AFNetworkReachabilityManager.m" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pods/AFNetworking/AFNetworking/AFNetworking.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pods/AFNetworking/AFNetworking/AFSecurityPolicy.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pods/AFNetworking/AFNetworking/AFSecurityPolicy.m" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pods/AFNetworking/AFNetworking/AFURLRequestSerialization.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pods/AFNetworking/AFNetworking/AFURLRequestSerialization.m" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pods/AFNetworking/AFNetworking/AFURLResponseSerialization.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pods/AFNetworking/AFNetworking/AFURLResponseSerialization.m" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pods/AFNetworking/AFNetworking/AFURLSessionManager.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pods/AFNetworking/AFNetworking/AFURLSessionManager.m" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pods/AFNetworking/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pods/AFNetworking/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pods/AFNetworking/UIKit+AFNetworking/AFAutoPurgingImageCache.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pods/AFNetworking/UIKit+AFNetworking/AFAutoPurgingImageCache.m" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pods/AFNetworking/UIKit+AFNetworking/AFImageDownloader.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pods/AFNetworking/UIKit+AFNetworking/AFImageDownloader.m" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pods/AFNetworking/UIKit+AFNetworking/AFNetworkActivityIndicatorManager.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pods/AFNetworking/UIKit+AFNetworking/AFNetworkActivityIndicatorManager.m" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pods/AFNetworking/UIKit+AFNetworking/UIActivityIndicatorView+AFNetworking.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pods/AFNetworking/UIKit+AFNetworking/UIActivityIndicatorView+AFNetworking.m" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pods/AFNetworking/UIKit+AFNetworking/UIButton+AFNetworking.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pods/AFNetworking/UIKit+AFNetworking/UIButton+AFNetworking.m" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pods/AFNetworking/UIKit+AFNetworking/UIImage+AFNetworking.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pods/AFNetworking/UIKit+AFNetworking/UIImageView+AFNetworking.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pods/AFNetworking/UIKit+AFNetworking/UIImageView+AFNetworking.m" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pods/AFNetworking/UIKit+AFNetworking/UIKit+AFNetworking.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pods/AFNetworking/UIKit+AFNetworking/UIProgressView+AFNetworking.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pods/AFNetworking/UIKit+AFNetworking/UIProgressView+AFNetworking.m" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pods/AFNetworking/UIKit+AFNetworking/UIRefreshControl+AFNetworking.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pods/AFNetworking/UIKit+AFNetworking/UIRefreshControl+AFNetworking.m" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pods/AFNetworking/UIKit+AFNetworking/UIWebView+AFNetworking.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pods/AFNetworking/UIKit+AFNetworking/UIWebView+AFNetworking.m" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pods/MBProgressHUD/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pods/MBProgressHUD/MBProgressHUD.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pods/MBProgressHUD/MBProgressHUD.m" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pods/MBProgressHUD/README.mdown" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pods/Target Support Files/AFNetworking/AFNetworking-dummy.m" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pods/Target Support Files/AFNetworking/AFNetworking-prefix.pch" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pods/Target Support Files/AFNetworking/AFNetworking-umbrella.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pods/Target Support Files/AFNetworking/AFNetworking.modulemap" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pods/Target Support Files/AFNetworking/AFNetworking.xcconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pods/Target Support Files/AFNetworking/Info.plist" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pods/Target Support Files/MBProgressHUD/Info.plist" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pods/Target Support Files/MBProgressHUD/MBProgressHUD-dummy.m" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pods/Target Support Files/MBProgressHUD/MBProgressHUD-prefix.pch" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pods/Target Support Files/MBProgressHUD/MBProgressHUD-umbrella.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pods/Target Support Files/MBProgressHUD/MBProgressHUD.modulemap" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pods/Target Support Files/MBProgressHUD/MBProgressHUD.xcconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pods/Target Support Files/Toast/Info.plist" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pods/Target Support Files/Toast/Toast-dummy.m" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pods/Target Support Files/Toast/Toast-prefix.pch" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pods/Target Support Files/Toast/Toast-umbrella.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pods/Target Support Files/Toast/Toast.modulemap" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pods/Target Support Files/Toast/Toast.xcconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pods/Target Support Files/YTKNetwork/Info.plist" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pods/Target Support Files/YTKNetwork/YTKNetwork-dummy.m" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pods/Target Support Files/YTKNetwork/YTKNetwork-prefix.pch" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pods/Target Support Files/YTKNetwork/YTKNetwork-umbrella.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pods/Target Support Files/YTKNetwork/YTKNetwork.modulemap" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pods/Target Support Files/YTKNetwork/YTKNetwork.xcconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pods/Target Support Files/YYModel/Info.plist" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pods/Target Support Files/YYModel/YYModel-dummy.m" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pods/Target Support Files/YYModel/YYModel-prefix.pch" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pods/Target Support Files/YYModel/YYModel-umbrella.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pods/Target Support Files/YYModel/YYModel.modulemap" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pods/Target Support Files/YYModel/YYModel.xcconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pods/Toast/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pods/Toast/Toast-Framework/Toast.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pods/Toast/Toast/UIView+Toast.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pods/Toast/Toast/UIView+Toast.m" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pods/Toast/license" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pods/YTKNetwork/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pods/YTKNetwork/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pods/YTKNetwork/YTKNetwork/YTKBaseRequest.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pods/YTKNetwork/YTKNetwork/YTKBaseRequest.m" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pods/YTKNetwork/YTKNetwork/YTKBatchRequest.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pods/YTKNetwork/YTKNetwork/YTKBatchRequest.m" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pods/YTKNetwork/YTKNetwork/YTKBatchRequestAgent.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pods/YTKNetwork/YTKNetwork/YTKBatchRequestAgent.m" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pods/YTKNetwork/YTKNetwork/YTKChainRequest.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pods/YTKNetwork/YTKNetwork/YTKChainRequest.m" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pods/YTKNetwork/YTKNetwork/YTKChainRequestAgent.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pods/YTKNetwork/YTKNetwork/YTKChainRequestAgent.m" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pods/YTKNetwork/YTKNetwork/YTKNetwork.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pods/YTKNetwork/YTKNetwork/YTKNetworkAgent.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pods/YTKNetwork/YTKNetwork/YTKNetworkAgent.m" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pods/YTKNetwork/YTKNetwork/YTKNetworkConfig.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pods/YTKNetwork/YTKNetwork/YTKNetworkConfig.m" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pods/YTKNetwork/YTKNetwork/YTKNetworkPrivate.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pods/YTKNetwork/YTKNetwork/YTKNetworkPrivate.m" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pods/YTKNetwork/YTKNetwork/YTKRequest.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pods/YTKNetwork/YTKNetwork/YTKRequest.m" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pods/YYModel/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pods/YYModel/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pods/YYModel/YYModel/NSObject+YYModel.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pods/YYModel/YYModel/NSObject+YYModel.m" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pods/YYModel/YYModel/YYClassInfo.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pods/YYModel/YYModel/YYClassInfo.m" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pods/YYModel/YYModel/YYModel.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Podfile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Podfile.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pods/Local Podspecs/RYLiOSFoundationFrameworkKit.podspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Pods/Local Podspecs/RYLiOSFoundationFrameworkKit.podspec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pods/Manifest.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Pods/Manifest.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pods/Pods.xcodeproj/project.pbxproj" beforeDir="false" afterPath="$PROJECT_DIR$/Pods/Pods.xcodeproj/project.pbxproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pods/Target Support Files/Pods-RYLiOSFoundationFrameworkKit_Example/Pods-RYLiOSFoundationFrameworkKit_Example-acknowledgements.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/Pods/Target Support Files/Pods-RYLiOSFoundationFrameworkKit_Example/Pods-RYLiOSFoundationFrameworkKit_Example-acknowledgements.markdown" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pods/Target Support Files/Pods-RYLiOSFoundationFrameworkKit_Example/Pods-RYLiOSFoundationFrameworkKit_Example-acknowledgements.plist" beforeDir="false" afterPath="$PROJECT_DIR$/Pods/Target Support Files/Pods-RYLiOSFoundationFrameworkKit_Example/Pods-RYLiOSFoundationFrameworkKit_Example-acknowledgements.plist" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pods/Target Support Files/Pods-RYLiOSFoundationFrameworkKit_Example/Pods-RYLiOSFoundationFrameworkKit_Example-frameworks.sh" beforeDir="false" afterPath="$PROJECT_DIR$/Pods/Target Support Files/Pods-RYLiOSFoundationFrameworkKit_Example/Pods-RYLiOSFoundationFrameworkKit_Example-frameworks.sh" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pods/Target Support Files/Pods-RYLiOSFoundationFrameworkKit_Example/Pods-RYLiOSFoundationFrameworkKit_Example.debug.xcconfig" beforeDir="false" afterPath="$PROJECT_DIR$/Pods/Target Support Files/Pods-RYLiOSFoundationFrameworkKit_Example/Pods-RYLiOSFoundationFrameworkKit_Example.debug.xcconfig" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pods/Target Support Files/Pods-RYLiOSFoundationFrameworkKit_Example/Pods-RYLiOSFoundationFrameworkKit_Example.release.xcconfig" beforeDir="false" afterPath="$PROJECT_DIR$/Pods/Target Support Files/Pods-RYLiOSFoundationFrameworkKit_Example/Pods-RYLiOSFoundationFrameworkKit_Example.release.xcconfig" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pods/Target Support Files/Pods-RYLiOSFoundationFrameworkKit_Tests/Pods-RYLiOSFoundationFrameworkKit_Tests.debug.xcconfig" beforeDir="false" afterPath="$PROJECT_DIR$/Pods/Target Support Files/Pods-RYLiOSFoundationFrameworkKit_Tests/Pods-RYLiOSFoundationFrameworkKit_Tests.debug.xcconfig" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pods/Target Support Files/Pods-RYLiOSFoundationFrameworkKit_Tests/Pods-RYLiOSFoundationFrameworkKit_Tests.release.xcconfig" beforeDir="false" afterPath="$PROJECT_DIR$/Pods/Target Support Files/Pods-RYLiOSFoundationFrameworkKit_Tests/Pods-RYLiOSFoundationFrameworkKit_Tests.release.xcconfig" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pods/Target Support Files/RYLiOSFoundationFrameworkKit/RYLiOSFoundationFrameworkKit.xcconfig" beforeDir="false" afterPath="$PROJECT_DIR$/Pods/Target Support Files/RYLiOSFoundationFrameworkKit/RYLiOSFoundationFrameworkKit.xcconfig" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RYLiOSFoundationFrameworkKit.xcodeproj/project.pbxproj" beforeDir="false" afterPath="$PROJECT_DIR$/RYLiOSFoundationFrameworkKit.xcodeproj/project.pbxproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/../LICENSE" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../RYLiOSFoundationFrameworkKit.podspec" beforeDir="false" afterPath="$PROJECT_DIR$/../RYLiOSFoundationFrameworkKit.podspec" afterDir="false" />
-    </list>
+    <list default="true" id="4f9f3902-9b18-4932-9dcc-8dd127ab4efe" name="Default" comment="" />
     <ignored path="$USER_HOME$/Library/Developer/Xcode/DerivedData/RYLiOSFoundationFrameworkKit-fczhuurteinzxdfpqtfzwanzjdlx/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -197,6 +75,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -256,22 +135,22 @@
       <option name="presentableId" value="Default" />
       <updated>1529568406988</updated>
       <workItem from="1529568408570" duration="774000" />
-      <workItem from="1529628514249" duration="1389000" />
+      <workItem from="1529628514249" duration="1947000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2163000" />
+    <option name="totallyTimeSpent" value="2721000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1440" height="878" extended-state="0" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
-      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5007153" side_tool="true" weight="0.3298153" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.3298153" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" sideWeight="0.49928468" visible="true" weight="0.3298153" />
       <window_info id="Designer" order="2" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2532189" />
       <window_info anchor="right" id="LuaJ" order="3" />

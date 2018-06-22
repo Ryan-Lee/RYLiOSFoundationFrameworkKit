@@ -35,6 +35,7 @@ Carthage/Build
 # `pod install` in .travis.yml
 #
 # Pods/
+Pods
 
 # Xcode
 #
@@ -101,4 +102,6 @@ fastlane/test_output
 iOSInjectionProject/
 
 #jetbrains
+.idea/*
 .idea
+.idea/
