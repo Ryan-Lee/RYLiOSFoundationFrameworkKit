@@ -22,7 +22,7 @@ pod 'RYLiOSFoundationFrameworkKit'
 
 ## Author
 
-Ryan-Lee, 614455714@qq.com
+MatriksZ, 614455714@qq.com
 
 ## License
 

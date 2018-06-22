@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
 s.name             = 'RYLiOSFoundationFrameworkKit'
-s.version          = '0.1.0'
+s.version          = '0.1.1'
 s.summary          = '一个iOS app快速开发框架及工具集'
 
 # This description is used to generate tags and improve search results.
@@ -25,7 +25,7 @@ DESC
 s.homepage         = 'https://github.com/Ryan-Lee/RYLiOSFoundationFrameworkKit'
 # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
 s.license          = { :type => 'MIT', :file => 'LICENSE' }
-s.author           = { 'Ryan-Lee' => '614455714@qq.com' }
+s.author           = { 'MatriksZ' => '614455714@qq.com' }
 s.source           = { :git => 'https://github.com/Ryan-Lee/RYLiOSFoundationFrameworkKit.git', :tag => s.version.to_s }
 # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
@@ -40,9 +40,9 @@ s.source_files = 'RYLiOSFoundationFrameworkKit/Classes/**/*'
 # s.public_header_files = 'Pod/Classes/**/*.h'
 #  s.frameworks = 'UIKit', 'Foundation'
 
-s.dependency 'Toast' #, '~> 4.0'
-s.dependency 'MBProgressHUD' #, '~> 1.1'
-s.dependency 'YTKNetwork' #, '~> 2.0'
-s.dependency 'YYModel' #, '~> 1.0'
+s.dependency 'Toast' , '~> 4.0'
+s.dependency 'MBProgressHUD' , '~> 1.1'
+s.dependency 'YTKNetwork' , '~> 2.0'
+s.dependency 'YYModel' , '~> 1.0'
 
 end
